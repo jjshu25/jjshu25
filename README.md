@@ -1,5 +1,5 @@
-# 💫 About Me:
-I'm an aspiring Full Stack Developer :)
+# Hi, I'm Romeo 💫 :
+🔸A Computer Science graduate with experience in full stack development and technical support.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/25-romeo-joshua-abella) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jjshua25@gmail.com) 
